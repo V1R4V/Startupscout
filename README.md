@@ -1,10 +1,63 @@
-# Startup Scout 
-## Startup Scout is a web platform designed to bridge the gap between venture capitalists, job seekers, and newly funded startups. 
-## By leveraging real-time data scraping, the platform tracks startups across various funding stages—Pre-Seed, Seed, and Series A—providing valuable insights for both investors and professionals seeking opportunities in emerging companies.
+# Startup Scout
 
-## For Venture Capitalists & Investors: Early-Stage Investment Insights: Get access to a curated list of recently funded startups, categorized by funding round and industry. Market Trends & Analytics: Identify emerging sectors and high-growth startups based on funding patterns and investor movements. Deal Flow Optimization: Streamline deal sourcing by discovering promising startups before they hit mainstream attention. For Job Seekers & Professionals: Exclusive Startup Opportunities: Find roles in high-potential startups that are actively hiring after securing fresh funding. Targeted Search & Alerts: Discover companies aligned with your skills and career aspirations in a competitive job market. Insider Hiring Insights: Get notified about hiring trends in newly funded startups before positions become widely advertised. Why Startup Scouts? Data-Driven Decision Making: Aggregates funding data, hiring signals, and investor interest in one centralized platform. Real-Time Updates: Stay ahead of the curve with up-to-date funding rounds and company expansions. Efficiency & Competitive Edge: Save time by cutting through noise and focusing on the most relevant startup opportunities. Future Vision: AI-Powered Matching In the next phase, Startup Scouts will integrate AI-driven recommendations to personalize venture scouting and job discovery. FUTURE: For Investors: AI will analyze market trends, founder backgrounds, and financials to suggest high-potential startups tailored to your investment strategy. For Job Seekers: AI will match your skills, experience, and career goals with the best startup opportunities, giving you a competitive edge in a saturated job market.
+**Discover freshly funded startups before everyone else.**
 
-https://devpost.com/software/startupscout#updates
+A real-time platform connecting **venture capitalists**, **investors** and **talent** with high-potential early-stage startups (Pre-Seed → Seed → Series A).
 
+<br>
 
-https://www.canva.com/design/DAGf5OIG-h8/4NS3Y5qrjuuxTY6rRQ3eYg/edit
+## What It Does
+
+- Tracks newly funded startups across industries and stages  
+- Surfaces early investment opportunities and hiring signals  
+- Delivers real-time funding + expansion insights
+
+<br>
+
+## Key Benefits
+
+### For Investors
+- Early deal flow — find promising companies before they go viral  
+- Sector trends & emerging hot verticals  
+- Faster, smarter sourcing
+
+### For Job Seekers & Talent
+- Access high-growth startups that just raised money and are hiring  
+- Get ahead of public job postings  
+- Find roles matching your skills in fast-moving companies
+
+<br>
+
+## Why Startup Scout?
+
+- Real-time funding & hiring intelligence  
+- One clean dashboard — no noise  
+- Data-driven advantage in a crowded market
+
+<br>
+
+## Future Vision
+
+**AI-powered personalization** (coming soon)
+
+- Smart investor recommendations based on strategy, thesis & past investments  
+- Personalized job matches using skills, experience & career goals
+
+<br>
+
+<div align="center">
+
+**See Startup Scout in action**  
+[![Watch the Demo](https://img.shields.io/badge/Watch_Demo-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/ZHLDDilROH8)
+
+**Built for Hackathon**  
+[![View on Devpost](https://img.shields.io/badge/View_on-Devpost-FF3366?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/software/startupscout)  
+Beautiful pitch deck → [Canva Presentation](https://www.canva.com/design/DAGf5OIG-h8/view)
+
+</div>
+
+<br>
+
+<p align="center">
+  <i>Stay ahead. Scout smarter.</i>
+</p>
